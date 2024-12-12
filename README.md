@@ -2,9 +2,6 @@
 
 **Master in Data Science - Machine Learning**  
 **Authors:** Frida Ibarra and Gema Romero
-**Correo** gema.romero@cunef.edu
-**Link github**: 
-
 ---
 
 ## About the Dataset
