@@ -1,5 +1,4 @@
 # Main-Practice
-# Main-Practice
 
 **Master in Data Science - Machine Learning**  
 **Authors:** Frida Ibarra and Gema Romero
